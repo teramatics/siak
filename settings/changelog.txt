@@ -1,0 +1,56 @@
+Cyber Mafaza Framework (CMF) Content Management System
+based on:
+- PDO
+- MySQL
+- Bootstrap
+Design & developed by Munawar @teramatics.com
+Support: teramatics@gmail.com
+Hotline: 081802832139
+*********************************************
+
+Changelog:
+06/05/2013 - Initial release ver 0.1
+- fb like status/comment
+- design & layout media komunikasi
+- slideshow, featured, hot infobox, artikel pilihan
+- CMF framework pdo, mysql, bootstrap based & other jquery
+
+07/05/2013 - release ver 0.2
+- Add Blok bawah & middle
+- Fixing tambah & edit artikel
+- Fixing profil user 
+- Add status on profil user
+
+08/05/2013 - release ver 0.25 
+- Add remove button owner status/comment; 
+- Hover color comment list; 
+- Remove Wysiwyg status; 
+- Fixing bug status & comment; 
+- Trial Streaming Radio 
+- Fixing middle box
+
+09/05/2013 - release 0.3:
+- Add Flayout Jadwal Kajian
+- Change right teaser box slideshow
+- Fix status/comment
+- Streaming clearing
+- Change fb comment to disqus
+
+10/05/2013 - release 0.4:
+- Add terbaru & pilihan tabs
+- Add pengguna kirim artikel
+- Add kelola artikel pengguna
+- Fix artikel order display
+- Fix flayout box jawal kajian
+
+12/05/2013 - release 0.5:
+- Add list artikel terkait
+- Add username & email checker for register
+- Fix slidehow filter
+
+12/05/2013 - release 0.55:
+- Fix edit, hapus artikel
+- Fix edit, hapus featured
+
+12/05/2013 - release 0.6:
+- Add email notification for status comment
